@@ -17,11 +17,11 @@ Level 1 P-Stage Image Classification Project Repository
 
 - vit_base_patch16_384
 
-	![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F755ecbe9-d38f-4025-bcd5-89c9990e80de%2FUntitled.png?table=block&id=d54c6e5f-a5f6-4a72-b49e-59b16a87124e&spaceId=c2d12222-1595-4286-87c6-962a6736ab00&width=1920&userId=9ecd7741-f358-433f-a500-5ed6df612938&cache=v2)
+	![vit_base_patch16_384](https://production-media.paperswithcode.com/models/Screen_Shot_2021-02-14_at_2.26.57_PM_WBwCIco.png)
 
 - Efficientnet_b3
 
-	![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F33111841-8972-48ea-8e2d-fec83a3d6743%2FUntitled.png?table=block&id=8749f261-08ca-49b0-b716-40adc75d53e4&spaceId=c2d12222-1595-4286-87c6-962a6736ab00&width=1920&userId=9ecd7741-f358-433f-a500-5ed6df612938&cache=v2)
+	![Efficientnet_b3](https://1.bp.blogspot.com/-DjZT_TLYZok/XO3BYqpxCJI/AAAAAAAAEKM/BvV53klXaTUuQHCkOXZZGywRMdU9v9T_wCLcBGAs/s1600/image2.png)
 
 
 ### Requirements
